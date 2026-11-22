@@ -1,0 +1,4 @@
+ad,channel,pool,running_from,running_through,arrival_lo,arrival_hi,max_ages,max_price,minimum,joint_scope,joint_minimum
+S1,portal,P1,2026-11-01,2026-11-18,2026-11-05,2026-11-23,15|15,699,0.6,J1,0.7
+S2,hotel,P1,2026-11-01,2026-11-18,2026-11-05,2026-11-23,12|17,719,0.64,J1,0.7
+S3,portal,P2,2026-11-05,2026-11-18,2026-11-07,2026-11-25,13|13,800,0.66,,

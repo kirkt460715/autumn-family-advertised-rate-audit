@@ -1,0 +1,13 @@
+stratum,ad,arrival_kind,family_kind,population,planned_draws
+S10,S1,weekday,small,72,12
+S11,S1,weekday,older,102,13
+S12,S1,weekend,small,132,14
+S13,S1,weekend,older,162,15
+S20,S2,weekday,small,84,12
+S21,S2,weekday,older,114,13
+S22,S2,weekend,small,144,14
+S23,S2,weekend,older,174,15
+S30,S3,weekday,small,96,12
+S31,S3,weekday,older,126,13
+S32,S3,weekend,small,156,14
+S33,S3,weekend,older,186,15

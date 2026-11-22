@@ -1,0 +1,5 @@
+rule,room,hotel,revision,valid_from,documented,max_adults,max_children,free_age,max_age,mandatory_bed_age,bed_fee
+RR1,family,H1,1,2026-11-01,2026-11-01,2,2,6,15,10,110
+RR2,family,H1,2,2026-11-11,2026-11-16,2,2,8,16,11,90
+RR3,double,H1,1,2026-11-01,2026-11-01,2,1,6,12,8,125
+RR4,family,H2,1,2026-11-01,2026-11-01,2,2,7,13,9,150

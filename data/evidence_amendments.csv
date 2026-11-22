@@ -1,0 +1,4 @@
+notice,draw,kind,rule,received_on,explicit_value
+U1,X00-00,bed_confirmation,RR1,2026-11-18,required
+U2,X04-00,reserve_origin,RR1,2026-11-19,pool_shared
+U3,X05-03,past_policy,RR2,2026-11-21,not_visible
